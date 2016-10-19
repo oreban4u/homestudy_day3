@@ -1,2 +1,2 @@
 # homestudy_day3
-all projects for day 3
+Clone of Google.com.ng webpage using HTML and CSS
